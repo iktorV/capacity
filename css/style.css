@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    background: url("../img/pattern.png");
+    font-family: Tahoma;
+    line-height: 1.5;
+}
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #ffffff;
+    box-shadow: 0px 5px 10px #ccc;
+    border-radius: 20px;
+}
+.card-foto {
+    display: block;
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    margin: auto;
+}
+.card-title{
+    font-size: 30px;
+    text-align: center;
+    color: #2f4c7c;
+}
+.card-text {
+    color: #ccc;
+    text-align: center;
+    font-size: 10px;
+
+        
+}
+.subtitle {
+    color: #7a71d8;
+    text-align: left;
+    font-size: 25px;
+    
+    
+}
+.capacitati {
+    color: #5b5e72;
+    font-size: 20px;
+    padding-left: 0;
+    list-style-position: inside;
+    
+    
+}
+.contact {
+    color: #5b5e72;
+    font-size: 25px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
